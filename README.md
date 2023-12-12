@@ -1,4 +1,4 @@
-# Coffee-Sales
+# Coffee-Sales Analysis
 
 Coffee Sales represent a dynamic and flourishing sector in the beveraging industry, driven by the global affinity for the beloved caffeinated beverage. The industry encompasses a wide range of products, from traditional brewed coffee to speciality espresso-based drinks, catering to diverse consumer preferences.
 
